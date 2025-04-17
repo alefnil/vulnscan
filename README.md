@@ -24,8 +24,8 @@ A powerful and modern web vulnerability scanner built in Python. VulnScan helps 
 
 1. Clone the repository:
 ```bash
-git clone https://github.com/yourusername/VulnScan.git
-cd VulnScan
+git clone https://github.com/j0rrdnn/vulnscan.git
+cd vulnscan
 ```
 
 2. Install required packages:
