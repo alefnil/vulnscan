@@ -92,4 +92,3 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 - Thanks to all contributors and the security research community
 - Built with Python and various awesome open-source libraries
-```
